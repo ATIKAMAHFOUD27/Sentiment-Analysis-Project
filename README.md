@@ -1,5 +1,3 @@
-# Sentiment-Analysis-Project
-# Automatisation de l'Analyse des Sentiments et Segmentation Sémantique des avis clients
 # Sentiment Analysis & Semantic Segmentation for E-Commerce
 📌 Project Overview:
 This project focuses on automating the understanding of customer feedback using Natural Language Processing (NLP). By analyzing over 23,000 authentic reviews from the "Womens Clothing E-Commerce Reviews" dataset , we transform unstructured text into actionable business insights.
